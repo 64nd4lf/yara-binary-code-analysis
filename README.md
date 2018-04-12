@@ -15,5 +15,5 @@ I have written at least one string of each of the following string types:
 4. Binary data containing byte alternatives ( 45 | 46 | 67 | … | )
 
 The signature meets the following criterion
-1. All strings must match at least one place in 2 or more of the malware samples from your group identified in HW02 
+1. All strings must match at least one place in 2 or more of the malware samples from your group
 2. The strings must not match on any legitimate windows binaries
